@@ -1,6 +1,6 @@
 # BookingPlan-PerformanceTest-JMeter
 # Change branch main to master to see the project files
-Dear, I have completed Performance test on frequently used API for test Application.
+Dear, I have completed Performance test on frequently used API for test Application 'https://restful-booker.herokuapp.com'. 
 Test executed for the below mentioned scenario in server.
 100 concurrent request with 1 loop count; Avg TPS for total Samples is ~ 15.0 And Total concurrent API requested:600. 
 150 concurrent request with 1 loop count; Avg TPS for total Samples is ~ 17.6 And Total concurrent API requested:900. 
